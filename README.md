@@ -1,7 +1,9 @@
 dnd-cli
 -------------------------------------------------------------------------
-A command line tool to assist dungeon masters in managing character data from dndbeyond.com.
+A command line tool to assist dungeon masters in managing character data from [dndbeyond.com](dndbeyond.com)
 
+Dndbeyond still does not have a public API so this tool serves as a work around by grabbing the raw JSON of
+your party's characters. 
 
 <h3>Usage</h3>
 
